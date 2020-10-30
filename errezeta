@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Here you can find 
+		all information about the HTML basic framework">
+  
+</head>
+
+<body>
+	<h1>Nutellako estrella</h1>
+	<p>
+	<hr>
+	<p>
+		<tr>
+			<td>
+				<p>Ingredienteak</p>
+				<ul>
+					<li>Ogi Masa</li>
+					<li>Arrautzak pinzelatzeko</li>
+					<li>Nutella pote bat</li>
+				</ul>
+			</td>
+		</tr>
+</body>
+
+</html>
